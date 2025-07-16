@@ -4,7 +4,6 @@ This repository contains Tableau dashboards, visualizations, and data analysis p
 
 ## 📁 Project: Analyzing Employee Trends
 
-![Analyzing Employee Trends Dashboard](Analyzing%20Employee%20Trends%20Dashboard.png)
 
 ### 📌 Project Description
 
@@ -39,7 +38,7 @@ The key goals of this project were to:
 
 ## 📁 Project: Call Center Data Analysis
 
-![Call Center Dashboard Preview](Callcenter%20Data%20Analysis.png)
+
 
 
 ### 📌 Project Description
