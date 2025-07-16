@@ -25,12 +25,8 @@ The key goals of this project were to:
 - Interactive filtering and slicing by department, job level, and demographics  
 - Key HR KPIs and visual insights  
 
-### 📂 Files
 
-- `Analyzing Employee Trends.twbx` – Tableau packaged workbook  
-- `Analyzing Employee Trends Dashboard.png` – Dashboard preview image  
 
----
 
 ### 🛠 Tools Used
 
@@ -38,4 +34,52 @@ The key goals of this project were to:
 - HR Dataset (synthetic/sample data)  
 
 ---
+
+
+### 📌 Project Description
+
+This interactive **Tableau dashboard** was built to visualize and analyze call center data. The primary objectives were to:
+
+- Provide insights into call volume, sentiment, and complaint types  
+- Identify trends in response times and service level performance  
+- Compare support performance across different communication channels and geographic locations  
+- Enable data-driven decision-making for optimizing call center operations  
+
+The dashboard integrates data from multiple sources such as call logs, transcripts, and customer surveys to present a unified operational overview.
+
+### 📊 Key Visualizations
+
+- Call volume trends and sentiment breakdowns  
+- Common complaint types and call driver analysis  
+- Response time vs. service level agreement (SLA) compliance  
+- Location-wise performance metrics  
+- Channel comparison (Call, Email, Chat, Web)
+
+---
+
+
+
+### 📌 About Tableau
+
+**Tableau** is a leading data visualization and business intelligence tool known for:
+
+- Drag-and-drop interface to create interactive dashboards  
+- Integration with diverse data sources  
+- Rich visual capabilities (charts, graphs, maps, etc.)  
+- Smart analytics (trendlines, forecasting, clustering)  
+- Easy sharing and publishing options  
+
+---
+
+### 🧭 How to Use
+
+1. Download and install **Tableau Desktop** (if not already installed)  
+2. Download the `.twbx` file from this repository  
+3. Open the file in Tableau to explore and interact with the dashboard  
+4. Optionally, connect your own data sources to customize the analysis  
+
+---
+
+
+
 
